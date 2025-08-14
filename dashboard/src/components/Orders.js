@@ -10,6 +10,7 @@ const Orders = () => {
         <Link to={"/"} className="btn">
           Get started
         </Link>
+        
       </div>
     </div>
   );
